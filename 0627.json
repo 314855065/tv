@@ -27,8 +27,8 @@
 {"key":"push_agent"      ,"name":"🛴推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0},
 //
 {"key":"csp_xpath_网络搜集库qiumi","name":"球迷","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/99/x/raw/branch/main/516-qiumi.js"},
-{"key": "音范丝磁链","name": "音范丝磁链(XP)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://314855065.github.io/tv/MaooXP/yinfans.json"},
-{"key": "哔嘀磁链","name": "哔嘀磁链(XP)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://314855065.github.io/tv/MaooXP/biditd.json"},
+{"key": "csp_XPath_yinfans","name": "音范丝磁链(XP)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://314855065.github.io/tv/MaooXP/yinfans.json"},
+{"key": "csp_XPath_biditd","name": "哔嘀磁链(XP)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://314855065.github.io/tv/MaooXP/biditd.json"},
 {"key":"csp_XPath_huya","name":"🐯虎牙(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://314855065.github.io/tv/MaooXP/虎牙.json"},
 {"key":"csp_XPath_huyam","name":"🐻虎牙M","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://314855065.github.io/tv/MaooXP/huya.json"},
 {"key":"csp_XPath_huyag","name":"🦊虎牙G","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://314855065.github.io/tv/MaooXP/huya2.json"},
